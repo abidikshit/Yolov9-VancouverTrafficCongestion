@@ -3,9 +3,8 @@
 Click the video below to play a preview of our traffic detection system:
 
 <a href="/video/traffic_vdo.mp4" target="_blank">
-  <img src="/video/traffic.png" alt="Watch the video" width="400" height="240">
+  <img src="/video/traffic.png" alt="Watch the video" width="500" height="300">
 </a>
-
 
 ## Description
 
