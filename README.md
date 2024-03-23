@@ -1,8 +1,9 @@
 # Transit Poverty: Leveraging AI to Transform Transportation
 
-<video width="640" height="360" controls>
-  <source src="/video/traffic_vdo.mp4" type="video/mp4">
-</video>
+Click the video below to play a preview of our traffic detection system:
+
+[![Watch the video](/video/traffic.png)](/video/traffic_vdo.mp4)
+
 
 ## Description
 
