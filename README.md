@@ -2,7 +2,9 @@
 
 Click the video below to play a preview of our traffic detection system:
 
-[![Watch the video](/video/traffic.png)](/video/traffic_vdo.mp4)
+<a href="/video/traffic_vdo.mp4" target="_blank">
+  <img src="/video/traffic.png" alt="Watch the video" width="280" height="140">
+</a>
 
 
 ## Description
@@ -16,8 +18,6 @@ Currently, we're working on calculating vehicle speed and predicting approaching
 But wait, there's more! We're diving into reinforcement learning using V2X technology. What does that mean? Our system learns from the environment and makes decisions based on rewards – like giving priority to emergency vehicles or pedestrians. Mind blown yet? 🤯
 
 And did we mention we're using YOLO object detection too? 🔍 It's like having our very own superhero watching over traffic flow. Safety and efficiency, anyone? 🛑️
-
-A special shoutout to our amazing contributors who are making this project possible: Chloe Bui, Daksh Arora, Jiayi (Janet) Tao, Murtaza Vora, Gunjan Paladiya, Milan Prajapati, and Chinthaka Dinesh. Thank you for your dedication, expertise, and passion for using AI to create positive change. 🙏
 
 The journey continues as we dive deeper into the realm of deep learning. Stay tuned for more exciting developments and join us in creating a smarter, safer future for all. 🌐✨
 
