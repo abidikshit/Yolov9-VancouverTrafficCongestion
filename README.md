@@ -24,9 +24,6 @@ The journey continues as we dive deeper into the realm of deep learning. Stay tu
 
 Special thanks to our dedicated contributors who have made significant contributions to this project:
 
-- **Chloe Bui** 
-- **Daksh Arora** 
-- **Jiayi (Janet) Tao** 
 - **Murtaza Vora** 
 - **Gunjan Paladiya** 
 - **Milan Prajapati**
